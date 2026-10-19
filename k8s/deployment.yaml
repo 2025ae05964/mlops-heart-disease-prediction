@@ -14,7 +14,8 @@ spec:
     spec:
       containers:
         - name: heart-api
-          image: <your-dockerhub-username>/heart-api:latest   # <-- push your image, set this
+          image: heart-api:latest   # <-- push your image, set this
+          imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 8000
           readinessProbe:
