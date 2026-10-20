@@ -3,10 +3,8 @@
 Predict presence/absence of heart disease from patient health data and serve it
 as a containerised, monitored API. (BITS Pilani AIMLCZG523 — Assignment 01)
 
-> This is a reference scaffold. **Run every step yourself**, capture **your own**
-> metrics/screenshots, and **personalise** the EDA, features, tuning and docs so
-> the submission reflects your individual work (as the academic-integrity note
-> requires).
+MLOps Assignment 01 — AIMLCZG523, BITS Pilani (2025ae05964).
+End-to-end ML pipeline with CI/CD, Docker, Kubernetes and monitoring.
 
 ---
 
